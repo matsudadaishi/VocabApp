@@ -59,6 +59,4 @@ java --module-path "C:/javafx-sdk-22.0.2/lib" --add-modules javafx.controls,java
 4. ブランチにプッシュします (`git push origin feature/AmazingFeature`)。
 5. プルリクエストを作成します。
 
-## ライセンス
-このプロジェクトはMITライセンスの下で提供されています。詳細については[LICENSE](./LICENSE)ファイルを参照してください。
-```
+
