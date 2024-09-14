@@ -1,0 +1,16 @@
+
+
+※コンパイルの方法
+
+javac --module-path "C:\Users\dmats\javafx-sdk-22.0.2\lib" --add-modules javafx.controls,javafx.fxml -encoding UTF-8 VocabAppFX.java
+
+
+※jarファイルの作成
+
+jar cvf VocabAppFX.jar VocabAppFX.class
+
+
+
+※コマンドプロンプトからの実行方法
+
+java --module-path "C:\Users\dmats\javafx-sdk-22.0.2\lib" --add-modules javafx.controls,javafx.fxml -jar VocabAppFX.jar
